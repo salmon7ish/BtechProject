@@ -9,4 +9,4 @@ java
 
 Note: This application was ran on Android 7 and 8 and might not be compatible with newer versions of Android.
 
-https://user-images.githubusercontent.com/68821141/132670510-b54676d5-50df-4aa0-aa04-5b20d5bbc8dd.mp4
+https://user-images.githubusercontent.com/68821141/132671073-40b149c6-1d61-40aa-8e04-826bbb151689.mp4
