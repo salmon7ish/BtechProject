@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MenuVisuals</string>
+    <string name="imagedish">ImageDish</string>
+    <string name="camera">Camera</string>
+</resources>
