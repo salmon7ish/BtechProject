@@ -11,3 +11,11 @@ java
 Note: This application was ran on Android 7 and 8 and might not be compatible with newer versions of Android.
 
 https://user-images.githubusercontent.com/68821141/132671073-40b149c6-1d61-40aa-8e04-826bbb151689.mp4
+
+# Buidling 
+
+Make sure that Git path is specified on your Android studio.
+On Android Studio welcome screen select "Get from Version Control", then clone this directory by clicking the clone button.
+
+# Note 
+This has deprecated and no longer maintained.
